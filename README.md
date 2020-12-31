@@ -2,3 +2,4 @@
 ## Higher than 75 marks
 ## Employee Names
 ## Employee Salaries
+## Type of Triangle
