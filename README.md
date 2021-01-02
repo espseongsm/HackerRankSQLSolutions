@@ -1,4 +1,5 @@
 # [Solutions for HackerRank SQL Questions](https://github.com/espseongsm/HackerRankSQLSolutions/blob/main/SolutionsForHackerRankSQL.ipynb)
+Implementing Pandas and SQL for solutions
 ## Higher than 75 marks
 ## Employee Names
 ## Employee Salaries
