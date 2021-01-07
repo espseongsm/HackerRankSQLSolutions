@@ -7,3 +7,4 @@ Implementing Pandas and SQL for solutions
 ## The PADS
 ## Occupations
 ## Binary Tree Nodes
+## New Companies
