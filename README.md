@@ -8,3 +8,6 @@ Implementing Pandas and SQL for solutions
 ## Occupations
 ## Binary Tree Nodes
 ## New Companies
+## The Blunder
+## Top Earners
+## The Report
