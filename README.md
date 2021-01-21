@@ -11,3 +11,4 @@ Implementing Pandas and SQL for solutions
 ## The Blunder
 ## Top Earners
 ## The Report
+## Top Competitors
