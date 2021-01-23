@@ -13,3 +13,4 @@ Implementing Pandas and SQL for solutions
 ## The Report
 ## Top Competitors
 ## Ollivander's Inventory
+## Challenges
