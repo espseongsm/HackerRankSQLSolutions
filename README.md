@@ -14,3 +14,6 @@ Implementing Pandas and SQL for solutions
 ## Top Competitors
 ## Ollivander's Inventory
 ## Challenges
+## Contest Leaderboard
+## SQL Project Planning
+## Placements
